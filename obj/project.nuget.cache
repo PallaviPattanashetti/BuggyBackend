@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VhjB+PLTfT0=",
+  "success": true,
+  "projectFilePath": "/Users/pallavipraveen/Documents/Level-4/Assignments/BuggyBackend/BuggyBackend.csproj",
+  "expectedPackageFiles": [
+    "/Users/pallavipraveen/.nuget/packages/microsoft.aspnetcore.openapi/9.0.15/microsoft.aspnetcore.openapi.9.0.15.nupkg.sha512",
+    "/Users/pallavipraveen/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+/Users/pallavipraveen/Documents/Level-4/Assignments/BuggyBackend/bin/Release/net9.0/publish/BuggyBackend
+/Users/pallavipraveen/Documents/Level-4/Assignments/BuggyBackend/bin/Release/net9.0/publish/appsettings.Development.json
+/Users/pallavipraveen/Documents/Level-4/Assignments/BuggyBackend/bin/Release/net9.0/publish/appsettings.json
+/Users/pallavipraveen/Documents/Level-4/Assignments/BuggyBackend/bin/Release/net9.0/publish/BuggyBackend.dll
+/Users/pallavipraveen/Documents/Level-4/Assignments/BuggyBackend/bin/Release/net9.0/publish/BuggyBackend.deps.json
+/Users/pallavipraveen/Documents/Level-4/Assignments/BuggyBackend/bin/Release/net9.0/publish/BuggyBackend.runtimeconfig.json
+/Users/pallavipraveen/Documents/Level-4/Assignments/BuggyBackend/bin/Release/net9.0/publish/BuggyBackend.pdb
+/Users/pallavipraveen/Documents/Level-4/Assignments/BuggyBackend/bin/Release/net9.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/pallavipraveen/Documents/Level-4/Assignments/BuggyBackend/bin/Release/net9.0/publish/Microsoft.OpenApi.dll
