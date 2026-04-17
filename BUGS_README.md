@@ -153,5 +153,5 @@ Get
 
              [HttpPut("{id}")]===https://newbuggybackendpp-dpgya5bjekbqdheh.westus3-01.azurewebsites.net/api/Members/1
 
-Delete-204
+Delete-
 https://newbuggybackendpp-dpgya5bjekbqdheh.westus3-01.azurewebsites.net/api/members/4
