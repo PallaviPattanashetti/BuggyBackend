@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BuggyBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4cfe4d65fade29841583b0654bf296478b62367")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ce3a1242227ddbe6a2f276036b4022518998382")]
 [assembly: System.Reflection.AssemblyProductAttribute("BuggyBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BuggyBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
