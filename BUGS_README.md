@@ -78,7 +78,7 @@ Fixed Bug -?
 **Location** models/Book 
 Fixed Bug -?
 
-##9 bug - Bookcontroller http get & delete id converted to ID type INT
+
 
 ##10 bug - replaced search with "search " to "SearchByTitle"
 
@@ -148,7 +148,7 @@ Get
    https://newbuggybackendpp-dpgya5bjekbqdheh.westus3-01.azurewebsites.net/api/members
    {
     "name": "Pallavi Pattanashetti",
-    "email": "pallavi.dev@example.com"
+    "email": "pallavi.dev@code.com"
 }
 
              [HttpPut("{id}")]===https://newbuggybackendpp-dpgya5bjekbqdheh.westus3-01.azurewebsites.net/api/Members/1

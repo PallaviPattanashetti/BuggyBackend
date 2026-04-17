@@ -30,3 +30,4 @@
 /Users/pallavipraveen/Documents/Level-4/Assignments/BuggyBackend/obj/Release/net9.0/BuggyBackend.pdb
 /Users/pallavipraveen/Documents/Level-4/Assignments/BuggyBackend/obj/Release/net9.0/BuggyBackend.genruntimeconfig.cache
 /Users/pallavipraveen/Documents/Level-4/Assignments/BuggyBackend/obj/Release/net9.0/ref/BuggyBackend.dll
+/Users/pallavipraveen/Documents/Level-4/Assignments/BuggyBackend/obj/Release/net9.0/BuggyBackend.sourcelink.json

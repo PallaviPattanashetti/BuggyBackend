@@ -22,7 +22,7 @@ namespace BuggyBackend.Controllers
             return Ok(members);
         }
 
-        [HttpGet("{id:int}")]
+        [HttpGet("{id}")]
         public ActionResult<Member> GetById(int id)
         {
             try
@@ -94,7 +94,7 @@ namespace BuggyBackend.Controllers
             }
         }
 
-        [HttpDelete("{id:int}")]
+        [HttpDelete("{id}")]
         public ActionResult<bool> Delete(int id)
         {
             try

@@ -22,7 +22,7 @@ namespace BuggyBackend.Controllers
             return Ok(books);
         }
 
-        [HttpGet("{id:int}")]
+        [HttpGet("{id}")]
         public ActionResult<Book> GetById(int id)
         {
             try
@@ -92,8 +92,8 @@ namespace BuggyBackend.Controllers
             }
         }
 
-        [HttpDelete("{id:int}")]
-        public ActionResult Delete(int id)
+        [HttpDelete("{id}")]
+        public  ActionResult <bool>Delete(int id)
         {
             try
             {
